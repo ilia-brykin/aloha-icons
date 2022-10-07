@@ -1,0 +1,9 @@
+{
+  "name": "aloha-icons",
+  "description": "SVG icons",
+  "version": "1.0.0",
+  "author": "Ilia Brykin",
+  "scripts": {
+    "build-icons": "node scriptsNode/iconsSvgToJs.js bootstrap3 && node scriptsNode/iconsSvgToJs.js bootstrap-1-9-1"
+  }
+}
