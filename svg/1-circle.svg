@@ -1,0 +1,26 @@
+<svg
+   version="1.1"
+   width="18"
+   height="18"
+   viewBox="0 0 18 18"
+   xmlns="http://www.w3.org/2000/svg"
+>
+  <g
+     transform="translate(-353.08353,121.34401)">
+    <g
+       aria-label="1"
+    >
+      <path
+         d="m 363.43803,-107.84254 h -0.90504 v -7.01406 q -0.31188,0.36691 -0.83778,0.75216 -0.5259,0.37914 -0.96619,0.57483 v -1.06404 q 0.74605,-0.42806 1.31475,-1.04569 0.57483,-0.61762 0.8072,-1.20468 h 0.58706 z"
+         class="a_svg_text"
+      />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:1.19912;stroke-dasharray:none;stroke-opacity:1"
+       cx="362.08353"
+       cy="-112.34401"
+       r="8.4004402"
+       class="a_svg_circle"
+    />
+  </g>
+</svg>
