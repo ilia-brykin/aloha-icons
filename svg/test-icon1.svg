@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="18"
+   height="18"
+   viewBox="0 0 18 18"
+   id="svg3600"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3604">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2498"
+       x="-0.039098646"
+       y="-0.039098646"
+       width="1.0781973"
+       height="1.0781973">
+      <feGaussianBlur
+         stdDeviation="3.1280856"
+         id="feGaussianBlur2500" />
+    </filter>
+    <linearGradient
+       xlink:href="#linearGradient1106"
+       id="linearGradient2978"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.90475"
+       y1="45.357147"
+       x2="-114.90475"
+       y2="237.36905" />
+    <linearGradient
+       id="linearGradient1106">
+      <stop
+         style="stop-color:#a02c2c;stop-opacity:1;"
+         offset="0"
+         id="stop1102" />
+      <stop
+         style="stop-color:#a0952c;stop-opacity:1"
+         offset="1"
+         id="stop1104" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4062"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="2.64214"
+         k2="0.802676"
+         result="composite1"
+         id="feComposite4048"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix4050" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(246,73,226)"
+         result="flood1"
+         id="feFlood4052" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend4054" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend4056" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix4058" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite4060" />
+    </filter>
+    <linearGradient
+       xlink:href="#linearGradient1586"
+       id="linearGradient2980"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.45358571,-9.0714286)"
+       x1="-115.35833"
+       y1="59.266674"
+       x2="-115.35833"
+       y2="150.73691" />
+    <linearGradient
+       id="linearGradient1586">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1582" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1584" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g2976"
+     transform="matrix(0.08694445,0,0,0.08692653,18.714192,-3.6561307)">
+    <circle
+       style="opacity:0.750903;fill:#000000;fill-opacity:1;stroke-width:3.2;stroke-opacity:0.99495;filter:url(#filter2498);stop-color:#000000"
+       id="circle2970"
+       cx="-111.72974"
+       cy="145.59637"
+       r="96.005951" />
+    <circle
+       style="fill:url(#linearGradient2978);fill-opacity:1;stroke-width:3.2;stroke-opacity:0.99495;filter:url(#filter4062);stop-color:#000000"
+       id="circle2972"
+       cx="-114.90475"
+       cy="141.3631"
+       r="96.005951" />
+    <path
+       id="rect4798"
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke-width:3.07163;stroke-opacity:0.99495;stop-color:#000000"
+       d="m -114.90475,81.817262 -50.27083,42.474988 v 76.61667 h 37.79769 v -36.28809 h 24.94628 v 36.28809 h 37.797696 v -76.61667 l -10.734744,-9.06988 V 86.610985 h -17.387054 v 13.920735 z" />
+    <ellipse
+       style="opacity:0.725632;fill:url(#linearGradient2980);fill-opacity:1;stroke-width:3.2;stroke-opacity:0.99495;stop-color:#000000"
+       id="ellipse2974"
+       cx="-114.90475"
+       cy="95.930367"
+       rx="63.5"
+       ry="45.735119" />
+  </g>
+</svg>
